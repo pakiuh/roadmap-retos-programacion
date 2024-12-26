@@ -27,8 +27,8 @@
 
 ## Corrección y próximo ejercicio
 
-> #### Lunes 14 de octubre de 2024 a las 20:00 (hora España) desde **[Twitch](https://twitch.tv/mouredev)**
-> #### Consulta el **[horario](https://discord.gg/juhmSSRF?event=1290376752622993469)** por país y crea un **[recordatorio](https://discord.gg/juhmSSRF?event=1290376752622993469)**
+> #### Lunes 30 de diciembre de 2024 a las 20:00 (hora España) desde **[Twitch](https://twitch.tv/mouredev)**
+> #### Consulta el **[horario](https://discord.gg/6qdjZwXA?event=1318390433465765918)** por país y crea un **[recordatorio](https://discord.gg/6qdjZwXA?event=1318390433465765918)**
 
 ## Roadmap
 
@@ -75,7 +75,16 @@
 |38|[MOUREDEV PRO](./Roadmap/38%20-%20MOUREDEV%20PRO/ejercicio.md)|[📝](./Roadmap/38%20-%20MOUREDEV%20PRO/python/mouredev.py)|[▶️](https://youtu.be/AbGROLoAVLs)|[👥](./Roadmap/38%20-%20MOUREDEV%20PRO/)
 |39|[BATMAN DAY](./Roadmap/39%20-%20BATMAN%20DAY/ejercicio.md)|[📝](./Roadmap/39%20-%20BATMAN%20DAY/python/mouredev.py)|[▶️](https://youtu.be/Lmj5enZG5pg)|[👥](./Roadmap/39%20-%20BATMAN%20DAY/)
 |40|[FORTNITE RUBIUS CUP](./Roadmap/40%20-%20FORTNITE%20RUBIUS%20CUP/ejercicio.md)|[📝](./Roadmap/40%20-%20FORTNITE%20RUBIUS%20CUP/python/mouredev.py)|[▶️](https://youtu.be/UlWtFvLLSXw)|[👥](./Roadmap/40%20-%20FORTNITE%20RUBIUS%20CUP/)
-|41|[CAMISETA RAR](./Roadmap/41%20-%20CAMISETA%20RAR/ejercicio.md)|[🗓️ 14/10/24](https://discord.gg/juhmSSRF?event=1290376752622993469)||[👥](./Roadmap/41%20-%20CAMISETA%20RAR/)
+|41|[CAMISETA RAR](./Roadmap/41%20-%20CAMISETA%20RAR/ejercicio.md)|[📝](./Roadmap/41%20-%20CAMISETA%20RAR/python/mouredev.py)|[▶️](https://youtu.be/QXFrWIFCkGY)|[👥](./Roadmap/41%20-%20CAMISETA%20RAR/)
+|42|[TORNEO DRAGON BALL](./Roadmap/42%20-%20TORNEO%20DRAGON%20BALL/ejercicio.md)|[📝](./Roadmap/42%20-%20TORNEO%20DRAGON%20BALL/python/mouredev.py)|[▶️](https://youtu.be/SgwX7ISEkvM)|[👥](./Roadmap/42%20-%20TORNEO%20DRAGON%20BALL/)
+|43|[GIT GITHUB CLI](./Roadmap/43%20-%20GIT%20GITHUB%20CLI/ejercicio.md)|[📝](./Roadmap/43%20-%20GIT%20GITHUB%20CLI/python/mouredev.py)|[▶️](https://youtu.be/Ct4GKpbqflI)|[👥](./Roadmap/43%20-%20GIT%20GITHUB%20CLI/)
+|44|[CUENTA ATRÁS MOUREDEV PRO](./Roadmap/44%20-%20CUENTA%20ATRÁS%20MOUREDEV%20PRO/ejercicio.md)|[📝](./Roadmap/44%20-%20CUENTA%20ATRÁS%20MOUREDEV%20PRO/python/mouredev.py)|[▶️](https://youtu.be/9wsXz4K8Q-4)|[👥](./Roadmap/44%20-%20CUENTA%20ATRÁS%20MOUREDEV%20PRO/)
+|45|[GITHUB OCTOVERSE](./Roadmap/45%20-%20GITHUB%20OCTOVERSE/ejercicio.md)|[📝](./Roadmap/45%20-%20GITHUB%20OCTOVERSE/python/mouredev.py)|[▶️](https://youtu.be/yj5ZFT_Xmcs)|[👥](./Roadmap/45%20-%20GITHUB%20OCTOVERSE/)
+|46|[X VS BLUESKY](./Roadmap/46%20-%20X%20VS%20BLUESKY/ejercicio.md)|[📝](./Roadmap/46%20-%20X%20VS%20BLUESKY/python/mouredev.py)|[▶️](https://youtu.be/RzwFGihKpOM)|[👥](./Roadmap/46%20-%20X%20VS%20BLUESKY/)
+|47|[CALENDARIO DE ADVIENTO](./Roadmap/47%20-%20CALENDARIO%20DE%20ADVIENTO/ejercicio.md)|[📝](./Roadmap/47%20-%20CALENDARIO%20DE%20ADVIENTO/python/mouredev.py)|[▶️](https://youtu.be/LteI1J5gmZw)|[👥](./Roadmap/47%20-%20CALENDARIO%20DE%20ADVIENTO/)
+|48|[ÁRBOL DE NAVIDAD](./Roadmap/48%20-%20ÁRBOL%20DE%20NAVIDAD/ejercicio.md)|[📝](./Roadmap/48%20-%20ÁRBOL%20DE%20NAVIDAD/python/mouredev.py)|[▶️](https://youtu.be/bIguZe3iXVo)|[👥](./Roadmap/48%20-%20ÁRBOL%20DE%20NAVIDAD/)
+|49|[EL ALMACÉN DE PAPÁ NOEL](./Roadmap/49%20-%20EL%20ALMACÉN%20DE%20PAPÁ%20NOEL/ejercicio.md)|[📝](./Roadmap/49%20-%20EL%20ALMACÉN%20DE%20PAPÁ%20NOEL/python/mouredev.py)|[▶️](https://youtu.be/XGMxosQArxw)|[👥](./Roadmap/49%20-%20EL%20ALMACÉN%20DE%20PAPÁ%20NOEL/)
+|50|[PLANIFICADOR DE OBJETIVOS DE AÑO NUEVO](./Roadmap/50%20-%20PLANIFICADOR%20DE%20OBJETIVOS%20DE%20A%C3%91O%20NUEVO/ejercicio.md)|[🗓️ 30/12/24](https://discord.gg/6qdjZwXA?event=1318390433465765918)||[👥](./Roadmap/50%20-%20PLANIFICADOR%20DE%20OBJETIVOS%20DE%20A%C3%91O%20NUEVO/)
 
 ## Cursos en YouTube
 
@@ -133,22 +142,30 @@ Si tienes dudas con el nombre del directorio de algún lenguaje, intenta consult
 [![Retos programación 2022](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Kotlin?label=Retos%20Semanales%202022&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin)
 [![Aplicaciones portafolio](https://img.shields.io/github/stars/mouredev/Monthly-App-Challenge-2022?label=Aplicaciones%20portafolio&style=social)](https://github.com/mouredev/Monthly-App-Challenge-2022)
 
+## Únete al campus de programación de la comunidad
+
+![https://mouredev.pro](./Images/pro.jpg)
+
+#### Te presento [mouredev pro](https://mouredev.pro), mi proyecto más importante para ayudarte a estudiar programación y desarrollo de software de manera diferente.
+
+> **¿Buscas un extra?** Aquí encontrarás mis cursos editados por lecciones individuales, para avanzar a tu ritmo y guardar el progreso. También dispondrás de ejercicios y correcciones, test para validar tus conocimientos, examen y certificado público de finalización, soporte, foro de estudiantes, reunionnes grupales, cursos exclusivos y mucho más.
+> 
+> Entra en **[mouredev.pro](https://mouredev.pro)** y utiliza el cupón **"PRO"** con un 10% de descuento en tu primera suscripción.
+
 ## ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure.
 ### Freelance full-stack iOS & Android engineer
-
-[![Twitch](https://img.shields.io/badge/Twitch-Retos_en_directo-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
-[![Discord](https://img.shields.io/badge/Discord-Chat_comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
-[![Link](https://img.shields.io/badge/Links_de_interés-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://moure.dev)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
 [![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
 ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/mouredev?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
 
 Soy ingeniero de software desde 2010. Desde 2018 combino mi trabajo desarrollando Apps con la creación de contenido formativo sobre programación y tecnología en diferentes redes sociales como **[@mouredev](https://moure.dev)**.
 
-### En mi perfil de GitHub tienes más información
+Si quieres unirte a nuestra comunidad de desarrollo, aprender programación, mejorar tus habilidades y ayudar a la continuidad del proyecto, puedes encontrarnos en:
 
-[![Web](https://img.shields.io/badge/GitHub-MoureDev-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/mouredev)
+[![Twitch](https://img.shields.io/badge/Twitch-Programación_en_directo-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
+[![Discord](https://img.shields.io/badge/Discord-Servidor_de_la_comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord) [![Pro](https://img.shields.io/badge/Cursos-mouredev.pro-FF5500?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=101010)](https://moure.dev)
+[![Link](https://img.shields.io/badge/Links_de_interés-moure.dev-14a1f0?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://moure.dev) [![Web](https://img.shields.io/badge/GitHub-MoureDev-087ec4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/mouredev)
